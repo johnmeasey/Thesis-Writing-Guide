@@ -2,7 +2,7 @@
 A class for postgraduate students to learn thesis writing at Yunnan University
 
 This course has 18 hours and requires two classes per week for nine weeks.
-It will be taught on Tuesday first (8:30-9:15am) and second period (9:25-10:10am)
+It will be taught on Friday first (8:30-9:15am) and second period (9:25-10:10am) in Room XXXX
 
 ## Course syllabus
 1.	The philosophy of science – why we need to record what we do; standing on the shoulders of giants; publication
@@ -14,6 +14,12 @@ It will be taught on Tuesday first (8:30-9:15am) and second period (9:25-10:10am
 7.	Publishing your thesis chapters – choosing a journal; preparing your submission; Open Access and reviewing models
 8.	Peer Review – writing a rebuttal; how to conduct peer review; 
 9.	Your future in science – mental health; networks; careers
+
+## Online Course Materials
+Each week you will have an online task that will require you to follow a set of instructions to produce a product that we will discuss in class (or online).
+1.	Finding, exploring and tracking your **keywords** in a literature database
+
+
 
 The course will be pulled from the two course texts:
 
