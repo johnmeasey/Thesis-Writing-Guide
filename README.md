@@ -18,7 +18,7 @@ It will be taught on Friday first (8:30-9:15am) and second period (9:25-10:10am)
 ## Online Course Materials
 Each week you will have an online task that will require you to follow a set of instructions to produce a product that we will discuss in class (or online).
 1.	Finding, exploring and tracking your **keywords** in a literature database
-
+2.  Writing paragraphs
 
 
 The course will be pulled from the two course texts:
@@ -45,7 +45,7 @@ This is an Open Access book by John Measey, and is also available in print from 
 
 You can read this book for free online at https://howtopublishscience.org/, or purchase print or ebook edition from CRC Press [here](https://www.routledge.com/How-to-Publish-in-Biological-Sciences-A-Guide-for-the-Uninitiated/Measey/p/book/9781032116419).
 
-View open-source code for source text and templates at https://github.com/johnmeasey/How-to-publish-in-Biological-Sciences
+View open-source code for source text and templates at https://github.com/johnmeasey/Thesis-Writing-Guide
 
 ## Copyright
 This work is licensed under a
