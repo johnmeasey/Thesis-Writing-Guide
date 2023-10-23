@@ -3,6 +3,7 @@ A class for postgraduate students to learn thesis writing at Yunnan University
 
 This course has 18 hours and requires two classes per week for nine weeks.
 It will be taught on Friday first (8:30-9:15am) and second period (9:25-10:10am) in Room XXXX
+You can access this course right now at https://johnmeasey.github.io/Thesis-Writing-Guide/
 
 ## Course syllabus
 1.	The philosophy of science – why we need to record what we do; standing on the shoulders of giants; publication
