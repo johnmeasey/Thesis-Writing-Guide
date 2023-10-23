@@ -1,0 +1,17 @@
+\mainmatter
+
+# (PART) Part I: Getting ready for submission {-}
+
+# The philosophy of science {#Week1}
+
+Contents of Week 1
+
+## The philosophy of science
+
+ - why we need to record what we do
+ - standing on the shoulders of giants
+ - publication
+ 
+ The slides for Week 1's lecture will appear here.
+
+
