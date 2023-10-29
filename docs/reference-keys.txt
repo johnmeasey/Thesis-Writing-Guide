@@ -107,3 +107,17 @@ aspects
 starting-to-write-with-an-outline
 writing-the-text
 fig:formula-FnK1
+class-times-and-venue
+hypothesis-building
+whathypothesis
+what-a-hypothesis-isnt
+a-formulaic-way-to-start-writing-your-hypothesis
+endogenous-causal-explanations
+exogenous-causal-explanations
+evolutionary-causal-explanations
+teleological-versus-causal-hypotheses
+how-to-evaluate-your-hypothesis
+fig:Hypothesis
+fig:laws
+how-your-hypothesis-fits-into-the-greater-scientific-community
+fig:hypothesis-community
