@@ -3,7 +3,7 @@ A class for postgraduate students to learn thesis writing at Yunnan University
 
 This course has 18 hours and requires two classes per week for nine weeks.
 
-## Class times and Venue {.unnumbered}
+## Class times and Venue
 
 In person classes will be held:
  - **Time**: every Friday (from 3rd November to 29 December - 9 weeks) sessions 1 (8:30-9:15am) & 2 (9:25-10:10am).
