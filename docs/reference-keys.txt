@@ -22,6 +22,7 @@ fig:outline
 fig:outline-fleshed
 tab:psycho
 tab:argument
+course-outline
 Week1
 the-philosophy-of-science
 history-of-scientific-publishing
