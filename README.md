@@ -2,7 +2,12 @@
 A class for postgraduate students to learn thesis writing at Yunnan University
 
 This course has 18 hours and requires two classes per week for nine weeks.
-It will be taught on Friday first (8:30-9:15am) and second period (9:25-10:10am) in Room XXXX
+
+## Class times and Venue {.unnumbered}
+
+In person classes will be held:
+ - **Time**: every Friday (from 3rd November to 29 December - 9 weeks) sessions 1 (8:30-9:15am) & 2 (9:25-10:10am).
+ - **Venue**: Room 1211, Wenhui Building (Building 1), Chenggong Campus.
 You can access this course right now at https://johnmeasey.github.io/Thesis-Writing-Guide/
 
 ## Course syllabus
