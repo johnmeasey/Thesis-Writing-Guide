@@ -1,0 +1,217 @@
+---
+title: "Writing paragraphs"
+author: "John Measey"
+date: "2023-10-20"
+output: html_document
+---
+
+# Writing paragraphs {#paragraphs}
+
+Getting started with [writing is difficult](https://johnmeasey.github.io/back-stories-to-publishing/), which is why it is easiest to have a plan. We will cover the bigger plans for an entire chapter in another workshop. Here we will look specifically about writing paragraphs and sentences. Much of what you will read here should have been covered when you were learning English in school, but it is useful to go over this again to see how it applies to writing in the natural sciences. 
+
+In this workshop you will learn how to: 
+
+- plan the different parts of a paragraph
+- construct a logical argument
+- get inspiration for some useful phrases commonly used in science
+
+Elsewhere, we will learn about [writing concisely](https://howtowriteaphd.org/concise.html), maximising the information content in the shortest possible number of words, and putting paragraphs together to form an [introduction](https://howtowriteaphd.org/introduction.html) or [discussion](https://howtowriteaphd.org/discussion.html). Don't expect that you will be able to achieve a perfect paragraph the first time that you write it. Instead, be prepared to write something that will take work over time to make it more [concise](https://howtowriteaphd.org/concise.html), improve and polish. The easiest way to approach this is to get everything you need into the paragraph first, and then cut and trim until it's right. Then put it away and critically read it again the next day; then the next week; and even the next month. Have other colleagues read and critique it and take that on board to reformulate and improve it. Be prepared to work hard on every paragraph that you write. This approach will reward you with well written science. 
+
+## The stages of writing
+
+You can think of the process of writing a paragraph in the following set of stages:
+
+1. knowing the relevant literature
+1. decide on the aim and plan your paragraph
+1. generate the content
+1. make the content [concise](https://howtowriteaphd.org/concise.html) through polishing
+1. check that the citations you have used are correct
+1. read and share what you have produced to get feedback
+
+Each of these steps is a separate process, and you should not try to do them simultaneously. For example, do not plan your paragraph at the same time that you generate the content. Ideally, you should decide on the aim of all the paragraphs in your [introduction](https://howtowriteaphd.org/introduction.html) or [discussion](https://howtowriteaphd.org/discussion.html) before you start planning their content. When you are generating the content, do not worry about how it looks or reads. Try to get all of the ideas that you have planned down onto the page. When generating content, avoid going back to read the relevant literature. That should already be in your head or in your plan. If you do know it is there, but can't remember it at that moment, then rather insert a place-holder that will allow you to find the correct citation later. There is another step in the stages of writing for checking literature. If you interrupt your content generation to read, you are likely to become distracted and lose your concentration. Do not try to generate the content at the same time as copyediting or polishing [@grogan2021writing]. If you treat each of these steps separately, you will find that writing becomes easier.
+
+
+
+### Get over yourself
+
+All writers go through a stage where they feel that everything they have written is bad. This is normal. Nobody is good at writing from birth. It is a talent that you acquire over time through practice. More importantly, scientific writing is a particular kind of writing that itself requires its own skill set. 
+
+Table \@ref(tab:psycho) contains some ideas that you can do to help yourself. This is not exhaustive, so keep looking out for new ideas until you find something that works for you.
+
+Table: (\#tab:psycho) **Tips to help make your writing easier.** Here are a number of ideas that you can adopt to help with your writing experience. Adapted from Grogan [-@grogan2021writing].
+
+| Tip number | Tip name | Tip description |
+| - | -- | ---- |
+| 1. | **Turn off your phone alerts, emails, chats, etc.** | It is important that you are not distracted during your writing time. If it helps, then wear headphones and listen to music to help you focus. Tell others around you not to interrupt you.|
+| 2. | **Use a set period followed by a break with a reward.** | The Pomodoro technique, is a set of 25 minute working sessions followed by 5 minutes of break and reward. Then another 25 minutes of concentrated writing time. You can try this and see if it works for you. |
+| 3. | **Prepare well**. | You cannot produce good content unless you have prepared first through your knowledge of the relevant literature and writing an aim and a plan. |
+| 4. | **Don't get stuck in a chasm of despair [@heard2018don].** | Known by many names including 'writers block' this is a place where you feel that you can't produce any content. If this happens to you then **do not stop**. If you take a break you will find that you are in the same place next time you sit down to write. This will soon mean that every time you write you will associate writing with the chasm. Instead, push through by 'free writing'. This is where you produce any content that is (as much as possible) on topic. Keep free writing until your target time period is over. The reality is that when we are generating content, much of it may get junked at a later date. This is normal. However, if you don't generate anything, there will be nothing to sort through and polish later. |
+| 5. | **Get feedback from your network.** | Your colleagues are also likely to be struggling with writing, as everyone struggles to some extent. Perhaps they have tips and tricks that you can learn from. You are likely to be able to find a way in which to get support from your network if you approach your colleagues in an open and equitable way. The could be practical help like getting space and time to dedicate to your writing. Or it could be moral support. You could time your break/reward sessions together. Reach out to those around you and start talking about writing and what they do that helps or hinders them. |
+
+
+
+## Paragraph aim {#aim}
+
+The first thing to think about when you want to write a paragraph is what you actually want to say within it. This may sound obvious, but writers often seem to forget what they wanted to communicate. It is really helpful to write down the purpose of your paragraph. Here are some examples for different paragraphs:
+
+- introduce relevant variables of the study organism
+- contrast findings of experiment with previously published results
+- identify major knowledge gaps in the field 
+- justify the use of variables using a logical argument
+- introduce a new technique
+
+Write your paragraph aim in bold at the start of your paragraph. Use an indicator like '>' or '#' to remind you that it is not part of the text. I suggest that you keep this aim present in your written work even when you submit the first draft to your advisor so that they know what your plan is. 
+
+You can modify your plan as you write. This is actually advisable as you get a better idea of what the aim of the paragraph is, you can make your aim more sophisticated. Updating your aim as you write will help you write more sophisticated aims in future.
+
+## Paragraph plan
+
+Now that you have an aim, you can write down a list of items that you want to try to include within the paragraph. This should include a list of papers that you want to cite in your paragraph. It is important that you have already assembled and read the relevant literature on this topic as you must know how each paper can be cited. Depending on the aim of the paragraph, it could also include a list of the **variables** that you need to introduce or discuss in your paragraph, the important results of your study, or important knowledge gaps.
+
+### Paragraph structure {#structure}
+
+Next we are going to decide how to structure the paragraph. 
+
+There are three important parts to your paragraph:
+
+- the topic sentence
+- the contents and supporting sentences
+- the summary and link sentence
+
+Because a paragraph carries a new topic, it is important to have the first sentence of a paragraph that communicates the contents. Remember that we aim to be [concise](https://howtowriteaphd.org/concise.html), so we might also make this topic sentence carry an important citation and even suggest the first part of the argument that we introduce or discuss.
+
+In the following paragraph, the [topic sentence](#topic) is in bold. The following sentences support and provide examples of this proposed idea. The [supporting sentences](#supporting) are normal font. The [clincher sentence](#clincher) is in italics.
+
+> **This paragraph starts with a topic sentence which contains the principle idea that citations are needed to produce examples.** The following sentences put this idea into the context of your study. This should be based on examples from existing literature with the corresponding in-text citations provided (Smith et al. 2017; Jones 2018). You can use examples in your paragraph to make your point. For examples, Smith and Jones (2017) carried out a study that showed that examples without citations have no credibility for readers. And this was backed up by another study by Jones and Smith (2018), which provided further evidence for the need to provide examples. Once you’ve provided your evidence, and introduced any covariates that you need to, like the use of literature for examples, then you are ready to sum up and link. *After reading this paragraph, the reader will know why citations are needed for examples, and they’ll be ready to read more about the topic of writing a paragraph in more detail.*
+
+#### The topic sentence {#topic}
+
+A topic sentence allows the reader to understand quickly the idea/topic you are putting forward in the paragraph. It must be in the context in which you are going to develop the same topic. There’s no point in just mentioning a topic in passing or using it in a different way than you will later.
+
+Make your topic sentence relatively simple. Don’t be tempted to add multiple clauses. This will be a rule for all of your sentences. If the topic sentence is too complex, you’ll lose your reader right at the beginning of the paragraph. Instead, you need a clear topic sentence that will make the reader confident that they know what you are talking about. If you are using a technical term, be sure that it has already been defined or do so in your topic sentence. Once it is introduced, keep the terminology consistent.
+
+
+#### Supporting sentences {#supporting}
+
+Supporting sentences convey all the relevant information to the reader. They are going to be statements that contain many citations, showing readers where the original ideas came from. Be sure to keep these sentences on topic, and regularly refer back to your outline to make sure that you keep to the original [aim of the paragraph](#aim). These are the meat of the paragraph and it’s really important to get them right.
+
+If you are writing about differences, then state which way the difference is. For example, if tulips are larger than lilies, then say this. Do not tell them that the size of tulips is different to that of lilies. Telling your audience that something is different than something else only ends up leaving them guessing about the directionality. There’s no point in drip dripping this information through. Set it down in as little space as possible so that your reader doesn’t get bored.
+
+Sentences within the meat of the paragraph interact, and there’s a great example to show how this is done here. These interactions usually dwell around pertinent variables (such as those that you are going to deal with in your paper). By using the same or similar words within the paragraph, you are able to demonstrate to the reader how those different points interact.
+
+While repeating the names of the variables, or their abbreviations, can be helpful, repeating descriptive words becomes quite tedious to the reader. Repeatedly reading the same ideas repeated over and over quickly bores the reader. Bored readers are less likely to take in what you write, even if you are repeating the same information (yes, I’m repeating myself - boring isn’t it). It will also give the reader the impression that your vocabulary is very limited. 
+
+**Hint:** You can quickly get a synonym to make your paragraph more diverse. An example of the synonym function in Microsoft Word (other wordprocessors are available) - right click on the highlighted word.
+This can allow you to go back and replace your **repeated** word with: recurrent, frequent, recurring, repetitive, constant or continual. That’s more than enough to spice up the paragraph. However, if you’re not sure whether a word is correctly replacing another, ask a friend to read it or look it up in a dictionary.
+
+Your supporting sentences are best built in the formula of [an argument](#argument).
+
+#### The last sentence of the paragraph: the clincher {#clincher}
+
+Once you’ve conveyed all of the information that you planned to impart in your [aim](#aim), it’s time for the last sentence. This should conclude the evidence that you’ve provided on your topic. Try not to make it lame. For example: “This shows that little work has been done.” One of my pet hates is authors who insist on telling us that “little work has been done” on their topic, as if this was a justification for doing anything. Instead, make it a real clincher about why the topic is important, or how and why you will tackle it. Instead (or as well if you can), you may want this sentence to link on to another paragraph (topic), especially if flow is important at that part of your outline. If you have just constructed a paragraph with thesis, antithesis and synthesis, then your clincher might be simply to underline that your approach in the paper is to investigate the synthesis. Either way, make sure that your last sentence is on topic, and one that sticks in the readers’ minds.
+
+
+***
+
+## **Exercise 1**: Writing a Paragraph {#write1}
+
+Using your [keywords](#keywords) (from the previous workshop), I want you to write a paragraph with the following aim:
+
+> Justify the use of your variables using a logical argument
+
+Using your own words provide the following information before you start:
+
+1. Present your aim (using your contents)
+1. Provide a list of literature that you plan to use
+1. What is the aim of your paragraph? 
+1. How are you planning to make a logical argument about the use of your variables
+1. How will you sum up your paragraph? 
+
+Once you have provided these five items, have a go at writing your paragraph. Make sure that you know and can see your plan before you begin to generate the content. When you are generating the content, limit yourself to 25 minutes. Because you have already planned the content, you should be ready and able to generate the content. If you are not confident with English, generate this content in your own language. It should flow relatively easily during that period, but it won't be perfect. Once it's written, give yourself a break. Then read through the paragraph again and begin to make it [concise](https://howtowriteaphd.org/concise.html) by cutting out unnecessary words.
+
+Give it to someone else in the class to read and ask them to label the different paragraph parts. Once they have read it, ask them to tell you using their own words and preferably a different language (and without looking at what you've written) what the paragraph was about. Does their explanation sound like your aim? If not, what was different? Make a note, read your paragraph again and determine whether you can see it from their viewpoint.
+
+
+
+## Construct a logical argument in your writing {#argument}
+
+Writing is not straightforward. Your objective is to communicate with a reader, someone who you’ve likely never met. You need to communicate highly complex information. But more than that you need them to see things as you do. You need to provide them with your reasoning and your argument, and have it make sense to them; preferably to the point where they agree with you. 
+
+To communicate, you need to start from common ground. The beginning of your introduction starts with the most general concepts in the context in which you are writing. The context depends on your audience, and this, in turn, relates to the particular journal that you are writing for. Even if you are writing a thesis, you should pick out a target journal for each of the chapters. Once you’ve established the common ground, you need to carry the reader towards the hypothesis or question that you propose. The easiest way to do this is to make use of a logical argument: 
+
+
+### Thesis, antithesis and synthesis {#thesis}
+
+This approach of using an argument in your paragraph is a classical way of writing that has its origin from the German philosopher Hegel. Philosophers refer to it as: thesis, antithesis and synthesis. The first statement is the proposed idea that you wish to pursue in your study. The antithesis negates the first statement, suggesting an alternative for the reader to consider. Lastly,the synthesis provides clarity on how to resolve the differences between thesis and antithesis. In scientific writing, each of these statements would be followed by citations that support their content. This classical writing style lends itself to the use of examples, such that both thesis and antithesis are presented with examples that illustrate each statement. 
+
+A series of statements that introduce a starting premise, provide evidence for and against that premise (perhaps adding in an example that makes your point), point out what missing information would allow reaching a better understanding of said premise, and logically conclude that what you are doing is going to help fill this gap. 
+
+This logical argument style is most prominent in the early introduction of your manuscript, although the entire introduction could be seen as one long logical argument, with a few smaller more precise arguments being thrown in along the way. You might also use a logical argument in your discussion to explain how you deduce certain inferences from your results, or provide a logical extension for a future study. 
+
+The following science argumentation model (Table \@ref(tab:argument)) is modified from Cope et al. [-@cope2013science]. Try using this model to guide your writing of a paragraph of your introduction (or discussion) where you attempt a logical argument. For a more in depth treatment of using arguments in science, see Toulmin [-@toulmin2003uses].
+
+Table: (\#tab:argument) **A framework for a scientific argument.** Modified from Cope et al. (2013), this model argument can be followed to provide as a way of getting started.
+
+| **Structure**  | **Explanation**  |
+| ------------ | -------------- |
+| A position statement / question / hypothesis / theory / problematic | This could be the big idea in your manuscript, or one of several competing concepts that you are introducing. The context in which you are writing might mean that this idea theory needs no introduction (e.g. the theory of evolution in the journal Evolution), but you need to be confident that your audience will understand what you are proposing. Remember to cite the person who came up with the idea. |
+| Claim 1 | One potential explanation or interpretation of the original idea. Evidence: Literature that agrees with this interpretation (could include an example) Reasoning: Your justification that links the evidence to the claim or interpretation. |
+| Claim 2 | Another potential explanation, of the previous interpretation of the original idea | *Evidence*: Literature that agrees with this interpretation (could include an example) *Reasoning*: Your justification that links the evidence to the claim or interpretation |
+| Counter-claims | Other possible interpretations or counter-claims. |
+| Conclusions | Evaluation: your judgement on weighing up the evidence for the idea. |
+
+If your logical argument doesn’t arrive immediately, don’t force it. Give it some thinking time to let it settle in. I find that logical arguments develop best when I’m not sitting at my desk writing. They come when I’m reading other papers (especially those with well-written arguments), taking a deep, hot bath, or when I’m out running in the mountains. If you are more social, talk through your logical argument with others, perhaps over a cup of coffee. It really helps to keep the ideas turning in your head. Don’t cut yourself off from work thoughts when you are away from work. 
+
+***
+
+## **Exercise 2**: Your logical argument {#write2}
+
+Now that you have learned how to write a logical argument, I want you to take your paragraph from [the first exercise](#write1), and write the [contents and supporting sentences](#structure) again. Plan your argument by: 
+
+1. Listing your claims
+1. List counter claims
+1. Provide reason why your claims are better
+1. Conclude with your judgement
+
+Once you have your argument planned, re-write it as the contents and supporting sentences of your paragraph. 
+
+Try reading it a few times and polish it a little before giving it to your colleague. Ask them for feedback on the paragraph. Did they understand it any better? 
+
+
+There are other shorter forms that might suit you better. Consider another classic form of the scientific argument: “compare and contrast” which allows you as a writer to quickly familiarise your reader with some key examples. Another sentence structure to consider is explaining cause and effect. Scientists have certain phrases that quickly
+
+***
+
+## Using the academic phrasebank {#phrasebank}
+
+The last part of this workshop will be to learn how to use the [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/). The phrasebank makes the nuts and bolts of your writing easier, by providing phrases that are well understood by your audience. Our aim is communication, so if we can use phrases that are familiar, we are likely to make the communication easier. 
+
+For your paragraph, you have a [logical argument](#argument) about which [variables](#kewords) you want to use. One way to do this is to compare and contrast the variables. [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/) has a section on [compare and contrast](https://www.phrasebank.manchester.ac.uk/compare-and-contrast/) that will help you compose some of these phrases. You may also want to introduce the differences and similarities of your variables.
+
+
+***
+
+## **Exercise 3**: Using the [academic phrasebank](https://www.phrasebank.manchester.ac.uk/) as your guide {#write3}
+
+Explore the different General Language functions (on the left side of the [Academic Phrasebank website](https://www.phrasebank.manchester.ac.uk/)), and find one that suits your paragraph from the previous exercises. 
+
+1. List the different phrases that you think you could use
+1. Re-write your paragraph with two or three of these different phrases
+1. Give these different paragraphs to your colleague, together with your original paragraph, and ask them which sounds the best.
+
+These phrases won't necessarily sound the best, but they can really help when you are feeling stuck for what to say, or especially if you want to use similar types of arguments but without using the same words. 
+
+In future, when you are [planning your paragraph](#write1), you can find the phrases that you would like to use and list them along with the other components: 
+
+1. Present your aim (using your contents)
+1. Provide a list of literature that you plan to use
+1. What is the subject of your paragraph? 
+1. How are you planning to make a logical argument about the use of your variables
+1. How will you sum up your paragraph? 
+1. Which phrases from the [academic phrasebank](https://www.phrasebank.manchester.ac.uk/) might be used in this paragraph?
+
+
+***
+
+
+This is the end of this workshop on writing [paragraphs](#paragraphs). If you find any problems with this workshop, please be sure to let me know. Email: [jmeasey@ynu.edu.cn](jmeasey@ynu.edu.cn)

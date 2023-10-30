@@ -1,8 +1,8 @@
-# Topics
+# Topics  {.unnumbered}
 
 If you don't yet have a topic for your PhD or MSc and you want to get some practical experience with [keywords](#keywords), then you have come to the right place. Each topic below contains three references that I consider are key in developing the understanding of that topic. Note that these are all subjects that I am interested in, so I haven't picked them randomly. Pick the one that most appeals to you and use the links to find the papers. Once you have the papers, you can return to our instructions on the [keywords exercise](#topic).
 
-## Topic 1
+## Topic 1  {.unnumbered}
 
 Vences, M., Lyra, M.L., Kueneman, J.G., Bletz, M.C., Archer, H.M., Canitz, J., Handreck, S., Randrianiaina, R.-D., Struck, U., Bhuju, S., Jarek, M., Geffers, R., McKenzie, V.J., Tebbe, C.C., Haddad, C.F.B., Glos, J., 2016. Gut bacterial communities across tadpole ecomorphs in two diverse tropical anuran faunas. *Sci Nat* 103, 25. https://doi.org/10.1007/s00114-016-1348-1
 
@@ -10,7 +10,14 @@ Fontaine, S.S., Kohl, K.D., 2020. Gut microbiota of invasive bullfrog tadpoles r
 
 Zhao, N., Ma, Z., Jiang, Y., Shi, Y., Xie, Y., Wang, Y., Wu, S., Liu, S., Wang, S., 2022. Geographical patterns of *Fejervarya limnocharis* gut microbiota by latitude along mainland China’s coastline. *Front. Microbiol.* 13, 1062302. https://doi.org/10.3389/fmicb.2022.1062302
 
-## Topic 2
+Bletz, M.C., Goedbloed, D.J., Sanchez, E., Reinhardt, T., Tebbe, C.C., Bhuju, S., Geffers, R., Jarek, M., Vences, M., Steinfartz, S., 2016. Amphibian gut microbiota shifts differentially in community structure but converges on habitat-specific predicted functions. *Nat Commun* 7, 13699. https://doi.org/10.1038/ncomms13699
+
+Chai, L., Dong, Z., Chen, A., Wang, H., 2018. Changes in intestinal microbiota of *Bufo gargarizans* and its association with body weight during metamorphosis. *Arch Microbiol* 200, 1087–1099. https://doi.org/10.1007/s00203-018-1523-1
+
+
+
+
+## Topic 2  {.unnumbered}
 
 Sakata, M.K., Kawata, M.U., Kurabayashi, A., Kurita, T., Nakamura, M., Shirako, T., Kakehashi, R., Nishikawa, K., Hossman, M.Y., Nishijima, T., Kabamoto, J., Miya, M., Minamoto, T., 2022. Development and evaluation of PCR primers for environmental DNA (eDNA) metabarcoding of Amphibia. *Metabarcoding and Metagenomics* 6, e76534. https://doi.org/10.3897/mbmg.6.76534
 
@@ -18,12 +25,20 @@ Fediajevaite, J., Priestley, V., Arnold, R., Savolainen, V., 2021. Meta-analysis
 
 Pilliod, D.S., Goldberg, C.S., Arkle, R.S., Waits, L.P., 2013. Estimating occupancy and abundance of stream amphibians using environmental DNA from filtered water samples. *Can. J. Fish. Aquat. Sci.* 70, 1123–1130. https://doi.org/10.1139/cjfas-2013-0047
 
+Dejean, T., Valentini, A., Miquel, C., Taberlet, P., Bellemain, E., Miaud, C., 2012. Improved detection of an alien invasive species through environmental DNA barcoding: The example of the American bullfrog *Lithobates catesbeianus*. *Journal of Applied Ecology* 49, 953–959. https://doi.org/10.1111/j.1365-2664.2012.02171.x
 
-## Topic 3
+Smart, A.S., Tingley, R., Weeks, A.R., Van Rooyen, A.R., McCarthy, M.A., 2015. Environmental DNA sampling is more sensitive than a traditional survey technique for detecting an aquatic invader. *Ecological Applications* 25, 1944–1952. https://doi.org/10.1890/14-1751.1
+
+
+
+## Topic 3  {.unnumbered}
 
 Lorrain-Soligon, L., Cavin, T., Villain, A.S., Perez, E.C., Kelley, D.B., Secondi, J., 2021. Effects of conspecific lures, call playbacks, and moonlight on the capture rate of *Xenopus laevis*, a major invasive amphibian. Manag. Biol. Invasion 12, 716–726. https://doi.org/10.3391/mbi.2021.12.3.13
 
 Vimercati, G., Labadesse, M., Secondi, J., 2020. Assessing the effect of landscape features on pond colonisation by an elusive amphibian invader using environmental DNA. *Freshwater Biology* 65, 502–513. https://doi.org/10.1111/fwb.13446
 
-Courant, J., Secondi, J., Vollette, J., Herrel, A., Thirion, J.-M., 2018. Assessing the impacts of the invasive frog, Xenopus laevis, on amphibians in western France. *Amphibia-Reptilia* 39, 219–227. https://doi.org/10.1163/15685381-17000153
+Courant, J., Secondi, J., Vollette, J., Herrel, A., Thirion, J.-M., 2018. Assessing the impacts of the invasive frog, *Xenopus laevis*, on amphibians in western France. *Amphibia-Reptilia* 39, 219–227. https://doi.org/10.1163/15685381-17000153
 
+Lillo, F., Faraone, F.P., Lo Valvo, M., 2011. Can the introduction of *Xenopus laevis* affect native amphibian populations? Reduction of reproductive occurrence in presence of the invasive species. *Biol Invasions* 13, 1533–1541. https://doi.org/10.1007/s10530-010-9911-8
+
+Louppe, V., Courant, J., Herrel, A., 2017. Differences in mobility at the range edge of an expanding invasive population of *Xenopus laevis* in the west of France. *Journal of Experimental Biology* 220, 278–283. https://doi.org/10.1242/jeb.146589
