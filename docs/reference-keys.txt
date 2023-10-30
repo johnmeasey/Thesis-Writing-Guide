@@ -121,3 +121,13 @@ fig:Hypothesis
 fig:laws
 how-your-hypothesis-fits-into-the-greater-scientific-community
 fig:hypothesis-community
+tab:Tinbergen
+hyp-building
+exercise-1-spotting-the-hypothesis-in-a-paper-spotting
+tinbergens--tinbergen1963aims-four-questions
+exercise-2-breaking-down-a-hypothesis
+the-problem-of-independence
+exercise-3-evaluating-a-hypothesis
+topic1
+aims-of-this-workshop
+spot
