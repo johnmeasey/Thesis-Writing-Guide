@@ -28,13 +28,7 @@ tab:psycho
 tab:argument
 Week1
 the-philosophy-of-science
-history-of-scientific-publishing
-the-advent-of-scientific-journals
-what-is-a-scientific-journal-for
-recording-and-dissemination
-primacy
-register-legitimacy
-archiving
+conducting-a-literature-review
 keywords
 becoming-familiar-with-the-literature-in-your-topic
 topic1
