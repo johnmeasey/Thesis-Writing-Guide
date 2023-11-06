@@ -19,10 +19,11 @@ tab:Tinbergen
 fig:formula-nw
 fig:formula-concept
 fig:formula-FnK1
+tab:intro
 tab:aspects
+fig:formula-FnK1KW
 fig:outline
 fig:outline-fleshed
-tab:intro
 tab:discuss
 tab:psycho
 tab:argument
