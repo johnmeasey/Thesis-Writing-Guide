@@ -1,9 +1,3 @@
----
-title: "Writing paragraphs"
-author: "John Measey"
-date: "2023-10-20"
-output: html_document
----
 
 # Writing paragraphs {#paragraphs}
 
@@ -84,11 +78,16 @@ In the following paragraph, the [topic sentence](#topic) is in bold. The followi
 
 > **This paragraph starts with a topic sentence which contains the principle idea that citations are needed to produce examples.** The following sentences put this idea into the context of your study. This should be based on examples from existing literature with the corresponding in-text citations provided (Smith et al. 2017; Jones 2018). You can use examples in your paragraph to make your point. For examples, Smith and Jones (2017) carried out a study that showed that examples without citations have no credibility for readers. And this was backed up by another study by Jones and Smith (2018), which provided further evidence for the need to provide examples. Once you’ve provided your evidence, and introduced any covariates that you need to, like the use of literature for examples, then you are ready to sum up and link. *After reading this paragraph, the reader will know why citations are needed for examples, and they’ll be ready to read more about the topic of writing a paragraph in more detail.*
 
-#### The topic sentence {#topic}
+
+Cognitive psychology gives us good reasons for structuring a paragraph. The **serial position effect** suggests that we are more likely to remember points made between episodes that those within them. You break your writing up into paragraphs by topics so that you create these boundaries: **chinking**. Given that you've gone to this trouble, you should use this opportunity to take advantage of the cognitive psychological opportunity that this presents [@moore2016what]. 
+
+
+#### The topic sentence {#topicsentence}
 
 A topic sentence allows the reader to understand quickly the idea/topic you are putting forward in the paragraph. It must be in the context in which you are going to develop the same topic. There’s no point in just mentioning a topic in passing or using it in a different way than you will later.
 
 Make your topic sentence relatively simple. Don’t be tempted to add multiple clauses. This will be a rule for all of your sentences. If the topic sentence is too complex, you’ll lose your reader right at the beginning of the paragraph. Instead, you need a clear topic sentence that will make the reader confident that they know what you are talking about. If you are using a technical term, be sure that it has already been defined or do so in your topic sentence. Once it is introduced, keep the terminology consistent.
+
 
 
 #### Supporting sentences {#supporting}
@@ -200,6 +199,10 @@ Explore the different General Language functions (on the left side of the [Acade
 1. Give these different paragraphs to your colleague, together with your original paragraph, and ask them which sounds the best.
 
 These phrases won't necessarily sound the best, but they can really help when you are feeling stuck for what to say, or especially if you want to use similar types of arguments but without using the same words. 
+
+***
+
+## Summing up the workshop on writing paragraphs
 
 In future, when you are [planning your paragraph](#write1), you can find the phrases that you would like to use and list them along with the other components: 
 

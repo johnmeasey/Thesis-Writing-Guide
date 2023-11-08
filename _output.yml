@@ -4,12 +4,12 @@ bookdown::gitbook:
     toc:
       collapse: none
       before: |
-        <li><a href="./">How to publish in Biological Sciences</a></li>
+        <li><a href="./">Thesis Writing Guide</a></li>
       after: |
         <li><a href="https://john.measey.com" target="blank">Published with bookdown</a></li>
         <li><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="blank">Creative Commons BY-NC-SA 4.0</a></li>
     download: [pdf, epub]
-    edit: https://github.com/yihui/bookdown-crc/edit/master/%s
+    edit: https://github.com/johnmeasey/Thesis-Writing-Guide/%s
     sharing:
       github: true
       facebook: false

@@ -1,9 +1,4 @@
----
-title: "Hypothesis Building"
-author: "John Measey"
-date: "2023-10-29"
-output: html_document
----
+
 
 # Hypothesis Building {#hyp-building}
 
@@ -48,7 +43,7 @@ It is worth noting here that rejecting the alternative hypothesis, or accepting 
 
 Most importantly, your hypothesis must come first, before you do the experiment or study. Hence the reason why this section comes at the start of part 2. Setting the hypothesis after the work is already done is fraudulent, and goes against the scientific method. Obviously, it isn't fair to pose the hypothesis once you already know the answer (also known as [HARKing](#TypeI)). This is why there is so much emphasis put on formulating your hypothesis during your research proposal. Getting it right will determine what you do and how you test it. If you think of an extra hypothesis that would be really useful to test once you've already done your study, you can conduct a post hoc test, but this should have more stringent levels of statistical assessment.
 
-### How your hypothesis fits into the greater scientific community
+### How your hypothesis fits into the greater scientific community {#hypfit}
 
 It is important to understand that hypotheses that you tests in your studies will ultimately become part of the wisdom of the greater scientific community, and ultimately the society at large (Figure \@ref(fig:hypothesis-community)). Of course, if you never [publish your results](https://howtopublishscience.org/), your work cannot be considered towards or against competing theories. Similarly, if you don't read the recent literature, then you won't be aware of what hypotheses have recently been tested and further how proposed theories are shaping up. 
 
@@ -66,7 +61,7 @@ Writing a hypothesis isn't easy, but it is essential, and once you've understood
 
  - **It is not a question** and so should never have a question mark after it.
 
- - **It isn't really a simple prediction**: if this then that. You will see on the internet that hypotheses are explained in this simple predictive framework. I say that a hypothesis is not a simple prediction because it lacks the mechanistic and scholarly aspect of a good hypothesis, which is what we want to achieve.
+ - **It isn't a simple prediction**: if this then that. You will see on the internet that hypotheses are explained in this simple predictive framework. I say that a hypothesis is not a simple prediction because it lacks the mechanistic and scholarly aspect of a good hypothesis, which is what we want to achieve.
 
 ***
 
@@ -77,8 +72,10 @@ Finding the hypothesis in a published paper should be an easy exercise. As [we w
 In this exercise, you will take the five research papers that you selected for your [keywords](#keywords) exercise and write down the hypothesis or hypotheses that are presented in each paper. Then, using what you have collected, answer the following questions:
 
 1. Are all of the statements hypotheses? (Are any of them questions or predictions?)
+   - Is it the null hypothesis (H~0~) or the alternative hypothesis (H~1~) that is given?
 1. How many hypotheses are presented in each paper?
-1. What are the variables tested in each hypothesis?
+   - Does each hypothesis relate to a different experiment?
+
 
 ***
 
@@ -86,19 +83,43 @@ In this exercise, you will take the five research papers that you selected for y
 
 __"If. then. because."__
 
-A simple way to consider making your hypothesis is to adopt an **"If. then. because."** construction where you add in your problem statement using your independent variable after 'if', and your prediction using your dependent variable after 'then', and finally the expected mechanism after 'because'. Using our example above with the "If. then. because." construction, we would say: "If environmental temperatures in which tadpoles develop are increased then tadpole development rate is faster because they follow the classic metabolism of ectotherms". Both independent variable (temperature) and dependent variable (tadpole development rate) are present in this hypothesis, and the predicted relationship between them is clear. In addition, the causal mechanism is stated. I say that this is a formulaic way to start writing your hypothesis, because it usually ends up as an inelegant statement, which can be better refined for a reader. A citation for your stated mechanism might also help clarify exactly where the justification for this comes from.
+A simple way to consider making your hypothesis is to adopt an **"If. then. because."** construction where you add in your problem statement using your independent variable after 'if', and your prediction using your dependent variable after 'then', and finally the expected mechanism after 'because'. For example, using the "If. then. because." construction, we might hypothesise: "**If** environmental temperatures in which tadpoles develop are increased **then** tadpole development rate is faster **because** they follow the classic metabolism of ectotherms". Both independent variable (temperature) and dependent variable (tadpole development rate) are present in this hypothesis, and the predicted relationship between them is clear. In addition, the causal mechanism is stated. This is a formulaic way to start writing your hypothesis, because it usually ends up as an inelegant statement, which can be better refined for a reader. A citation for your stated mechanism might also help clarify exactly where the justification for this comes from. More examples of "If. then. because." are shown in Figure (\@ref(fig:ifthenbecause)).
+
+
+(ref:ifthenbecause) **If... then... because... is a formulaic way in which to start writing your hypothesis.** The crucial parts that are required are all present including the variables that you control (independent variables), the measured variables (dependent variable), and the causal mechanism. The fabricated examples here are shown to help you get started. Remember that once you have your If. then. because. statement, you will need to refine it and add a citation for the known causal mechanism.
+
+```{r ifthenbecause, echo=FALSE, fig.align='center', out.width='90%', fig.cap="(ref:ifthenbecause)"}
+knitr::include_graphics('figures/ifthenbecause.png')
+```
+
+### Dependent and independent variables
+
+It is important to know what your variables are (Table \@ref(tab:variable)). Choosing variables to manipulate and those to measure are going to depend on the literature; i.e., what other people have tried and found effective before.
+
+Table: (\#tab:variable) **The variables inside your hypothesis.**  It is critical to be aware of all salient variables in your hypothesis and whether you will change or control them. The two main types of variables, Dependent and Independent, are also known as (aka) other names.
+
+
+| Variable name | aka | Variable description | Graphically |
+| - | - | --- | - |
+| Dependent | Response, Outcome | The variable that you will measure to see how your treatments have changed it. | Shown on the y-axis |
+| Independent | Determinate, Predictor, Explanatory | The variable that you will deliberately change and control in your experiment or sampling regime | Shown on the x-axis |
+| Co-variate | Co-variable | An variable that is not of interest but that can influence the measurement of the dependent variable | - |
+| Random variable | - | An variable whose value is unknown but can influence the measurement of the dependent variable | - |
+
+
+### What kind of mechanism are you using?
 
 Mechanisms (or causal explanations) fall into three main areas: endogenous, exogenous and evolutionary [@allen2017scientific].
 
-### Endogenous causal explanations
+#### Endogenous causal explanations
 
 Endogenous causal explanations focus on the mechanisms happening inside an organism, such as physiological processes, hormones, reproductive state, etc.
 
-### Exogenous causal explanations
+#### Exogenous causal explanations
 
 Exogenous causal explanations concern mechanisms that are outside the body of individuals. Common exogenous mechanisms are climatic factors (temperature, humidity, precipitation, etc.) or may relate to the availability of food, predators or mates. 
 
-### Evolutionary causal explanations
+#### Evolutionary causal explanations
 
 These mechanisms have evolved through time, and often relate to exogenous mechanisms triggering endogenous processes over multiple generations.
 
@@ -126,7 +147,7 @@ Table: (\#tab:Tinbergen) **Tinbergen's [-@tinbergen1963aims] four questions.**  
 
 Note that the first two questions are both **proximate** in that they explain the structure of the trait and its developed. The last two questions are **evolutionary** (or ultimate), to determine how the trait is influenced by selection.
 
-Although Tinbergen [-@tinbergen1963aims] originally conceived these questions to explore behavioural traits, these four questions are used more widely as big ideas that enable biologists to determine proximate and ultimate causes of any trait that they wish to study, either independently of each other, or in synthesis to provide an overall picture. If you haven't done so already, it would be worth spending time to determine how many of Tinbergen's four questions have been answered for your own study system.
+Although Tinbergen [-@tinbergen1963aims] originally conceived these questions to explore behavioural traits, these four questions are used more widely as [big ideas](https://howtowriteaphd.org/bigidea.html) that enable biologists to determine proximate and ultimate causes of any trait that they wish to study, either independently of each other, or in synthesis to provide an overall picture. If you haven't done so already, it would be worth spending time to determine how many of Tinbergen's four questions have been answered for your own study system.
 
 
 
@@ -136,18 +157,27 @@ Although Tinbergen [-@tinbergen1963aims] originally conceived these questions to
 
 In this exercise, I want you to take the hypotheses that you recorded in [Exercise 1](#spot) and work through the following set of objectives:
 
-1. Re-write each hypothesis into the form: "If... then... because..."
-1. Once you have identified the components in each hypothesis, go back to the introduction and highlight where they were introduced.
-1. Classify each hypothesis as endogenous, exogenous or evolutionary
+1. Re-write each hypothesis into the form: "If... then... because..." 
+1. Which is the dependent variable and which is independent? (**Hint**: If you have difficulty knowing this from the introduction, you can easily determine this from the Materials and Methods section)
+1. Once you have identified the components in each hypothesis, go back to the introduction and highlight where these three components (Dependent variable, Independent variable and mechanism) were introduced.
+1. Write out the missing  (H~0~ or H~1~) hypothesis.
+1. Classify each hypothesis as endogenous, exogenous or evolutionary.
 1. Can you fit any of the hypotheses into one of Tinbergen's four questions?
+1. What are the big ideas that these studies add evidence towards? (Hint: We will use this answer again in [week 4](#spotting))
 
+   
+You should be able to determine 
 
 ***
 
 ### The problem of independence
 
 
-Probably one of the hardest issues that you will face in biological sciences is to determine whether your dependent variable is reliant only on the independent variable of choice. For example, a lot of variance in biological sciences will relate to the climate (especially with global change studies), but if the independent variable is temperature, this means that all other climatic variables must be kept the same. That is, if temperature is your independent variable, it is the only variable that can change in your experiment. This type of experiment is challenging as temperature often affects other variables (especially that they may vary in an unpredictable way). As soon as you have more than one independent variable, you can no longer test your dependent variable because you don't know which independent variable it is reacting to.  Isolating variables is notoriously difficult, especially when we move from the laboratory to the field. You will need to think very carefully about what variables other than those of interest are potentially impacted by your experimental design. If you cannot control for them, this will likely mean that you need to change your hypothesis, or change your experimental design. If you are unsure, then I would encourage you to look carefully at the experiments that others have conducted in the literature. 
+Probably one of the hardest issues that you will face in biological sciences is to determine whether your dependent variable is reliant only on the independent variable of choice. For example, a lot of variance in biological sciences will relate to the climate (especially with global change studies), but if the independent variable is temperature, this means that all other climatic variables must be kept the same. That is, if temperature is your independent variable, it is the only variable that can change in your experiment. This type of experiment is challenging as temperature often affects other variables (especially that they may vary in an unpredictable way). As soon as you have more than one independent variable, you can no longer test your dependent variable because you don't know which independent variable it is reacting to.  Isolating variables is notoriously difficult, especially when we move from the laboratory to the field. A classic approach to this is to consider additional variables as co-variates. A co-variate is not the variable of interest, but may change the dependent variable in your experimental design (Table \@ref(tab:variable)). There are statistical ways to account for co-variates.
+
+You will need to think very carefully about what variables other than those of interest are potentially impacted by your experimental design. If you cannot control for them, this will likely mean that you may need to change your hypothesis, or change your experimental design to take account of these co-variates. If you are unsure, then I would encourage you to look carefully at the experiments that others have conducted in the literature. You always need to know how you are going to analyse your results when you plan your experiment. Hence, ensuring that the analysis is accounting for all variables and co-variables and that these are all controlled for your chosen mechanism is a difficult but essential component of your hypothesis building exercise.
+
+
 
 ***
 
@@ -155,14 +185,23 @@ Probably one of the hardest issues that you will face in biological sciences is 
 
 How do you decide whether or not a hypothesis is good? To do this, you might think that you need plenty of experience (and yes, that does help). But really, you just need to look for the elements that are discussed above. So once you've written your hypothesis, try to objectively answer the questions below:
 
-1. Is there a clear prediction (if. then. statement)?
+1. Is there a clear prediction with a mechanism (if. then. because)?
 1. Is the mechanism supported by the literature?
 1. Is the hypothesis testable/falsifiable?
 1. Does the hypothesis use concise wording and precise terminology?
 1. Does the prediction use independent and dependent variables correctly?
 
+Consider each of the hypotheses from your example papers, and ask each of the questions above.
+
+**Question** Were all of the parts of a hypothesis present? If not, then can you identify the missing parts of re-write an improved hypothesis for this paper?
+
+**Question** How similar are the hypotheses presented to any of the hypotheses that you plan to test? Will you be using any of the same variables or mechanisms?
+
+
 
 ***
+
+## Summing up this hypothesis workshop
 
 In this workshop, we have concentrated on the hypothesis as the central part of any research project. Of course, it is possible to conduct a scientific project without a hypothesis (see [here](https://howtowriteaphd.org/nohypothesis.html)), but you should now appreciate why your research will be stronger if it is falsifiable. You will have learned how to:
 

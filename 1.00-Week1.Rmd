@@ -1,6 +1,6 @@
 \mainmatter
 
-# (PART) Part I: Getting ready for submission {-}
+# (PART) Part I: Why Publish? {-}
 
 # The philosophy of science {#Week1}
 
@@ -8,10 +8,218 @@ Contents of Week 1
 
 ## The philosophy of science
 
- - why we need to record what we do
- - standing on the shoulders of giants
- - publication
- 
- The slides for Week 1's lecture will appear here.
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide1.PNG', dpi = NA)
+```
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide2.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide3.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide4.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide5.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide6.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide7.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide8.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide9.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide10.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide11.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide12.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide13.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide14.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide15.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide16.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide17.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide18.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide19.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide20.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide21.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide22.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide23.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide24.PNG', dpi = NA)
+```
+
+## Conducting a literature review
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide25.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide26.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide27.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide28.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide29.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide30.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide31.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide32.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide33.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide34.PNG', dpi = NA)
+```
+
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide35.PNG', dpi = NA)
+```
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Lecture_1-journals/Slide36.PNG', dpi = NA)
+```
+
 
 

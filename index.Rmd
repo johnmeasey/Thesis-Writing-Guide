@@ -11,24 +11,12 @@ lot: yes
 lof: yes
 site: bookdown::bookdown_site
 output: bookdown::gitbook
-description: "A class for postgraduate students to learn thesis writing at Yunnan University. This course has 18 hours and requires two classes per week for nine weeks. It will be taught on Tuesday first (8:30-9:15am) and second period (9:25-10:10am). The content of this course is taken from two published books: How to write a PhD in the Biological Sciences, and How to Publish in the Biological Sciences. You can find both books free to read online and these will serve as the course text books."
+description: "A class for postgraduate students to learn thesis writing at Yunnan University. This course has 18 hours and requires two classes per week for nine weeks. It will be taught on Friday first (8:30-9:15am) and second period (9:25-10:10am). The content of this course is taken from two published books: How to write a PhD in the Biological Sciences, and How to Publish in the Biological Sciences. You can find both books free to read online and these will serve as the course text books."
 github-repo: johnmeasey/Thesis-Writing-Guide
 graphics: yes
 cover-image: images/Cover.png
 favicon: images/favicon.png
 ---
-
-```{r setup, include=FALSE}
-options(
-  htmltools.dir.version = FALSE, formatR.indent = 2, width = 55, digits = 4
-)
-
-# install the packages needed by this book; you fill out c(), e.g. c('ggplot2', 'dplyr')
-lapply(c('xfun'), function(pkg) {
-  if (system.file(package = pkg) == '') install.packages(pkg)
-})
-```
-
 
 
 
@@ -46,56 +34,31 @@ knitr::include_graphics('figures/YNU.png', dpi = NA)
 
 In person classes will be held:
 
- - **Time**: every Friday (from 3rd November to 29 December - 9 weeks) sessions 1 (08h30) & 2 (10h00).
+ - **Time**: every Friday (from 3rd November to 29 December - 9 weeks) sessions 1 (8:30-9:15am) & 2 (9:25-10:10am).
  - **Venue**: Room 1211, Wenhui Building (Building 1), Chenggong Campus.
+ 
+ 
+```{r fig.align='centre', out.width = '50%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}
+knitr::include_graphics('figures/Wenhui-Building.png', dpi = NA)
+```
+
  
  Online activities and workshops:
  
  - All online activities will be posted here in this guide. If you have difficulties accessing this site or any of the content, please let me know immediately.
  - Within each online activity there are **Exercises** listed which are obligatory activities for every student. These must be individual to the student (no groups and no duplicate results).
 
- 
+## Course outline {.unnumbered}
 
-## What's not in this guide {.unnumbered}
-
-Depending on just how early you are in your career, there is a lot missing from this book that has been provided in two other books [**How to write a PhD in Biological Sciences**](www.howtowriteaphd.org) and [**How to publish in the Biological Sciences**](www.howtopublishscience.org). Those books should be consulted whenever you feel that you want more information - you should also consult articles, papers and other literature that is cited in this guide and those books.
-
-
-## Structure of this guide {.unnumbered}
-
-This course is given in nine parts:
-
-[**Week I - The philosophy of science**](#Week1) why we need to record what we do; standing on the shoulders of giants; living your life scientific
-Online activity: **[Keywords](#keywords)**
-
-[**Week II - The hypo-deductive model in science**](#Week2) big questions in your field; reviewing the literature; how to write a hypothesis; citing the literature
-Online activity: **[Hypothesis building](#hypothesis)**
-
-[**Week III - Transparency**](#Week3) the movement for Open Science; Preregistration; data curation
-Online activity: 
-
-[**Week IV - A model for thesis writing**](#Week4)  – introduction; methods; results; discussion
-Online activity: **[Formulaic writing](#formula)**
-
-[**Week V - Nuts and bolts of writing**](#Week5)  – sentences; paragraphs; logical arguments; examples; citation databases
-Online activity:  **[Writing paragraphs](#paragraphs)**
-
-[**Week VI - Publishing your thesis chapters**](#Week6) choosing a journal; preparing your submission; Open Access and reviewing models
-Online activity: 
-
-[**Week VII - Peer Review**](#Week7)  writing a rebuttal; how to conduct peer review
-Online activity: 
-
-[**Week VIII - When science goes wrong**](#Week8)  publication bias; the evolution of bad science; rewards and retractions
-Online activity: 
-
-[**Week IX - Your future in science**](#Week9) mental health; networks; careers
-Online activity: 
-
-
-There are also a set of **workshops** with **exercises** for each week. You can find these here:
-
-
+1. **The philosophy of science** – why we need to record what we do; standing on the shoulders of giants; publication
+1. **The hypo-deductive model in science** – big questions in your field; reviewing the literature; how to write a hypothesis; citing the literature
+1. **A model for thesis writing** – introduction; methods; results; discussion
+1. **Nuts and bolts of writing** – sentences; paragraphs; logical arguments; examples; citation databases
+1. **When science goes wrong** – publication bias; the evolution of bad science; rewards and retractions
+1. **Preregistration** – transparency; the movement for Open Science; data curation
+1. **Publishing your thesis chapters** – choosing a journal; preparing your submission; Open Access and reviewing models
+1. **Peer Review** – writing a rebuttal; how to conduct peer review; 
+1. **Your future in science** – mental health; networks; careers
 
 
 
@@ -111,6 +74,9 @@ If you don't get five of your own papers, then you will be using five papers on 
 
 ## Text books {.unnumbered}
 
+
+Depending on just how early you are in your career, there is a lot missing from this book that has been provided in two other books [**How to write a PhD in Biological Sciences**](www.howtowriteaphd.org) and [**How to publish in the Biological Sciences**](www.howtopublishscience.org). Those books should be consulted whenever you feel that you want more information - you should also consult articles, papers and other literature that is cited in this guide and those books. Whenever possible, I have put links to chapters in these other books. They have the look and feel of this guide, so watch out and don't get lost!
+
 The course will be pulled from the two course texts:
 
 ## How to write a PhD in Biological Sciences: A guide for the uninitiated  {.unnumbered}
@@ -120,7 +86,10 @@ This is an Open Access book by John Measey, and published in <b>2022</b> by CRC 
 You can read this book for free online at http://www.howtowriteaphd.org/, or [purchase print or ebook edition](https://www.routledge.com/How-to-Write-a-PhD-in-Biological-Sciences-A-Guide-for-the-Uninitiated/Measey/p/book/9781032080208) from CRC Press.
 
 
-![cover](https://user-images.githubusercontent.com/25199650/132136607-ee08db4e-0ea7-4d42-8ca3-30d2935043f8.jpg)
+```{r fig.align='centre', out.width = '65%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.howtowriteaphd.org/'}
+knitr::include_graphics('figures/cover1.png', dpi = NA)
+```
+
 
 View open-source code for source text and templates at [here](https://github.com/johnmeasey/How-to-write-a-PhD-in-Biological-Sciences)
 
@@ -131,7 +100,11 @@ View open-source code for source text and templates at [here](https://github.com
 
 This is an Open Access book by John Measey, and is also available in print from [CRC Press](https://www.routledge.com/How-to-Publish-in-Biological-Sciences-A-Guide-for-the-Uninitiated/Measey/p/book/9781032116419) (2022)
 
-![cover](https://user-images.githubusercontent.com/25199650/131245320-269a0b7d-9c04-415a-967a-bef5f0d4ebb9.jpg)
+
+```{r fig.align='centre', out.width = '65%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='https://howtopublishscience.org/'}
+knitr::include_graphics('figures/cover2.png', dpi = NA)
+```
+
 
 You can read this book for free online at https://howtopublishscience.org/, or purchase print or ebook edition from CRC Press [here](https://www.routledge.com/How-to-Publish-in-Biological-Sciences-A-Guide-for-the-Uninitiated/Measey/p/book/9781032116419).
 
