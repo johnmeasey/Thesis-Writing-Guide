@@ -11,11 +11,13 @@ fig:keywords-VOSV2
 fig:keywords-VOSV3
 fig:keywords-alert1
 fig:keywords-alert2
+fig:journal-video
 fig:laws
 fig:hypothesis-community
 fig:ifthenbecause
 tab:variable
 tab:Tinbergen
+fig:jWeek3
 fig:formula-nw
 fig:formula-concept
 fig:formula-FnK1
@@ -53,7 +55,7 @@ answer-the-following-questions
 alert
 summing-up-the-keywords-workshop
 Week2
-conducting-a-literature-review-1
+how-to-use-citations
 hyp-building
 aims-of-this-workshop
 whathypothesis
@@ -73,6 +75,7 @@ the-problem-of-independence
 exercise-3-evaluating-a-hypothesis
 summing-up-this-hypothesis-workshop
 Week3
+planning-a-thesis-chapter
 Week4
 formula1
 so-what-is-the-formula
