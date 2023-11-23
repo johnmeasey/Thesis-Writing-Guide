@@ -26,6 +26,7 @@ tab:aspects
 fig:formula-FnK1KW
 fig:outline
 fig:outline-fleshed
+fig:Week4
 tab:psycho
 tab:argument
 tab:discuss
@@ -87,7 +88,7 @@ discussaspects
 writing-the-text
 summing-up-the-formula-workshop
 Week4
-Week5
+from-sentences-to-paragraphs
 paragraphs
 the-stages-of-writing
 get-over-yourself
@@ -104,7 +105,7 @@ write2
 phrasebank
 write3
 summing-up-the-workshop-on-writing-paragraphs
-Week6
+Week5
 discuss
 introduction-vs-discussion
 your-discussion-formula
@@ -122,6 +123,7 @@ starting-to-write-with-an-outline-1
 subheadings-for-important-points
 discaspects
 writing-the-text-1
+Week6
 Week7
 Week8
 Week9
