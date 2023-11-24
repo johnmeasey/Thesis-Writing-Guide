@@ -1,0 +1,141 @@
+
+# Critical Reading: an approach for biological sciences {#criticalreading}
+
+Reading is the foundation of our knowledge in science, but how do we retain what we read and manage to use it for our own work? In order to gain the maximum from our time spent reading, we use an approach called **critical reading**. Critical reading is the process of interrogating both positive and negative aspects of a manuscript through questioning and discussion to provide a reasoned critique. The concept of critical reading in biological sciences can occur at many different levels within a single paper. It could be a response to the way in which the scientific content has been conducted, as is typical with peer review. It might entail analysing the way in which the authors have communicated their arguments and ideas. More importantly, it should be a synthesis of these and more aspects of a paper. Critical reading should be something that we engage with at every level of a paper that we read.
+
+## Positive as well as negative aspects
+
+Many people misunderstand the nature of criticism, thinking that it only means pointing out negative aspects. In fact, to critique something is to provide a detailed analysis which should be balanced on both good and bad aspects. Perhaps it is simpler to go through a manuscript pointing out all of the deficiencies and problems that we find. However, it can be more rewarding to search for things that we like. Indeed, it is far easier to learn by example of what we like about something, than simply avoiding things that we don't like. Moreover, when we are reading critically in the biological sciences, we must be objective with our praise and disapproval such that we can precise a reason for liking or disliking a particular aspect. Without stating why we approve or disapprove, we are not going to help advance our own writing skills.
+
+
+## How to start reading critically
+
+Critical reading requires an **active engagement** with the contents of the paper. This means that when you read, you need to be writing comments and annotating the text. Traditionally, this would be done with a pen and paper, making annotations directly onto the manuscript itself or on a separate index card. Today, there are a number of different electronic tools you can use to help your active engagement with the text. I recommend using a highlighter tool and combining this with notes made at the time of reading. You can use different highlighter colours to aid your categorisation of annotations. 
+
+Although you might dismiss the idea of picking up a pen as archaic, there are several studies that suggest using your own handwriting is much more powerful than using a computer. A study by Mueller and Oppenheimer [-@mueller2014pen] showed that students who typed retained less of the content from a lecture than those that made notes by hand. There is also evidence that the spatiotemporal nature of handwritten notes will help you recall what you have learned [@bouton1993context]. Hence, there are scientific reasons why you should use your pen more than your keyboard.
+
+You will need time free from distraction in order to read critically. Give yourself a slot in your schedule when you can turn off your phone (**no** WeChat, Insta or other pop-ups) and free yourself from other distractions. Dedicate that time to reading, and stop when the time is up. You can expect that you will need to concentrate on reading the paper, and so you can't simply keep reading until the task is done as this will likely be longer that you can concentrate for in a single sitting. If you do not finish it in the first sitting, then allocate yourself another slot to pick up where you left off. Forty minute slots work well for most people. For a paper that is [pivotal in your area](#equality), you might need several slots for the first reading. Remember that as you become more practiced at critical reading, the amount of time that you spend per paper will decrease.
+
+
+## Exercise 1: What are you reading this for? {#identify}
+
+In this exercise you are going to use five new papers that you have not used in previous workshops. Find these papers by using your [keywords](#keywords) and make sure that they are relevant to your study. 
+
+In order to make the choice of which five papers you are going to read in this workshop, only look at the titles, abstract and keywords that you will find in the [Literature Database](https://howtowriteaphd.org/databases.html#databases). 
+
+ - Find and download a pdf of the paper
+ - Before you read any of the content, ask yourself why you have identified this particular paper to be of interest
+   + In which part of your own studies are you likely to cite this paper?
+   + What are you hoping that the paper will contain?
+   + What part of the title or abstract made you decide to choose this paper?
+ - Write down your answers to these questions and keep them.
+   
+
+### What aspects do we make notes on?
+
+At different stages of your postgraduate studies it is likely that you will put emphasis on different aspects of a paper. Indeed, there are probably many more aspects that you could make notes on than you will have time for in a single reading (see Table \@ref(tab:critical)). Don't overburden yourself on your first reading of a paper. If it turns out to be of importance to your study, then you will likely go back to it and make more directed notes at a later date. 
+
+Now, at the beginning of your postgraduate studies, you are likely to be mindful of the three aspects that make up the [hypothesis](#formulahyp): dependent variable, independent variable and mechanism (see Table \@ref(tab:variable)). We have already conducted exercises that will help you [find](#spot), [breakdown](#break) and [evaluate](#evaluate) a hypothesis in a previous workshop (see [here](#hyp-building)). It is worth looking back on this to remind you how to do this.
+
+We have also conducted exercises on how these variables fit into the [introduction](#spotting) and [discussion](#discuss). If you don't remember, I'd encourage you to go back and look at these exercises. 
+
+Table: (\#tab:critical) **Aspects of a paper to identify when critical reading.**  There are many aspects of a paper that you can make notes on when you are engaged in critical reading. It would be hard to note every single aspect in a single reading, so you may need to go back and re-read at a later date when you are looking for other information.
+
+| Aspect | Notes to make |
+| - | --- |
+| [Major theme / topic](#aspects) | Identify the major theme or topic that the research contributes towards |
+| [Keywords](#keywords) | How many of the keywords match your own? |
+| [Variables](#formulahyp) | Note what variables are measured and controlled in the study. Are there any co-variates? |
+| [Hypothesis](#hyp-building) | Note the hypothesis, and the different components that it is made of |
+| [Arguments](#argument) | Where are there arguments made in the text and did you find them convincing |
+| Approach | What approach is used to test the hypothesis? |
+| Study system | What study system is used |
+| Control | How was the control made? |
+| Enjoyable sections | Anything that you enjoyed reading, or points well made. Any other aspects of the text that you found very well done |
+| Confusing sections | Areas that were confusing or hard to understand. This may change on re-reading the text |
+| Topic sentences | Do all the paragraphs have topic sentences? Do they accurately sum up the contents of each paragraph? |
+| Summarise the study | Using your own words, summarise the study objectives and findings. Make the notes is such a way that it will help you find this paper again when you are looking for a citation. |
+| Important details | Are there any important details, especially in the methods, that might help you in your own studies? |
+| Unfamiliar technical terms | If there are technical terms (or other words) that you are unfamiliar with and need to look up |
+| Major caveats | Are there major caveats that the authors identify, or others that you have spotted that are not mentioned? |
+
+***
+## Exercise 2: Active reading
+
+
+In previous workshops, we have already learned how to mark-up variables, arguments and aspects in the introduction and discussion, so there is no need to do this again here. 
+
+The first step in this exercise is to read the paper. During your reading I want you to concentrate on marking up the text with the following points. Use different coloured highlighters for each categorisation of annotations.
+
+ - enjoyable sections
+ - confusing sections
+ - important details
+ - unfamiliar technical terms
+ - major caveats 
+
+For each of the marked sections remember that you need to make notes to state your reasons for making the highlight. In these notes, you do not need to use full sentences or a complicated explanation. These notes are for your benefit, so only you need to know their contents. But remember, we are talking about future you who will rely on these in years to come. If you highlight a section without making any note, then it is unlikely that future you will remember why you did this.
+
+***
+
+### Not all papers are equal {#equality}
+
+The degree to which you engage in a paper, make notes and critique it will depend on how important it is for your own studies. In order to [cite a paper](#how-to-use-citations), it is important that you have read it. But you might only need to be able to summarise studies in order to make some citations (see Table \@ref(tab:critical)). There will be a small subset of papers, that you will learn to identify, that are very important to your field and that you will need a good understanding of. These will be the ones that you read and re-read in order to understand them in detail.
+
+### Reflection
+
+Personally, I believe that reflection is an important aspect of critical reading. Reflection is taking the time to think about what you've read. I find that during the first reading, I do not have sufficient overview of the study in order to generate a synthesis.
+
+When re-reading, always look back on the notes that you made during your first reading. It is important to know what you concentrated on last time you read it, and what aspects you were impressed or unimpressed with.
+
+***
+
+## Exercise 3: Writing the summary
+
+In this exercise, we are already familiar with each paper (having read them all before), so it is important that before you do exercise 3 you wait several days (up to 4 days) before starting. 
+
+Before you read the paper, take a look at your notes that you made before. 
+
+Do your notes help you remember what the paper was about? 
+
+Now you need to read each paper again. 
+
+After the second reading, it is time for you to write a summary. Write your summary in a simple style that you would use to explain the study to someone else in your own peer group.
+
+ - In one paragraph, summarise the study objectives and findings. 
+ - In a bullet pointed list, make notes on how the study will be useful for you in your studies.
+ - In the last paragraph, summarise your own insights into positive and negative aspects of the study.
+ 
+Once you have finished with your summary, take a look at the notes you made on reading the paper for the first time. 
+
+ - Do you still agree with these? 
+ - Have you changed your mind about being confused by certain sections? If yes, then add a note to that part to explain to yourself about why it is now clear.
+ - Did you find any new parts of the paper that you now consider to be important details or major caveats?
+ - How has re-reading and reflecting on the paper changed your view of it?
+
+Lastly, you are going to take the notes that you made in [Exercise 1](#identify). Read through those notes on what you expected to get before reading the paper. 
+
+ - Did you find what you expected?
+ - Were you disappointed?
+ - Did you get more than you expected?
+ - How has your critical reading of these papers influenced how you will pick papers to read in the future?
+
+*** 
+ 
+## Summing up the workshop on critical reading
+
+In this workshop, we have learned the importance of active note taking during reading of papers in our subject area so that we can retain knowledge on their content and use them in citations in our future writing. 
+
+1. It is important to highlight aspects of the paper that you like as well as those that you dislike or find confusing.
+1. Using coloured highlighters and writing with a pen will aid your long-term memory of the paper and its contents.
+1. You need dedicated and uninterrupted time to read
+1. There are many different aspects to critical reading and you should not expect to do them all in a single sitting.
+1. Not all papers are equally important for your study, and some will deserve more attention than others.
+1. Reflection on reading will aid in your comprehension and appreciation of many papers.
+1. Summarising the major findings in your own words will help you when you are wanting to remember the contents of the paper.
+
+***
+
+
+This is the end of this workshop on writing [critical reading](#criticalreading). If you find any problems with this workshop, please be sure to let me know. Email: [jmeasey@ynu.edu.cn](jmeasey@ynu.edu.cn)
+
+ 

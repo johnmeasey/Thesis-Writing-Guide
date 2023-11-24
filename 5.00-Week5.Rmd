@@ -1,8 +1,8 @@
 \mainmatter
 
-# (PART) Part I: Getting ready for submission {-}
+# (PART) Part I: Week 5 {-}
 
-# Submitting your work to a journal {#Week5}
+# When science goes wrong {#Week5}
 
 Content of Week 5
 

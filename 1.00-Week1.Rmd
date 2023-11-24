@@ -1,6 +1,6 @@
 \mainmatter
 
-# (PART) Part I: Why Publish? {-}
+# (PART) Part I: Week 1 {-}
 
 # The philosophy of science {#Week1}
 

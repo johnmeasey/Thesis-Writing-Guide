@@ -1,7 +1,7 @@
 \mainmatter
 
-# (PART) Part I: Getting ready for submission {-}
+# (PART) Part I: Week 6 {-}
 
-# Submitting your work to a journal {#Week6}
+# Preregistration & transparency {#Week6}
 
 Content of Week 6

@@ -79,7 +79,7 @@ In this exercise, you will take the five research papers that you selected for y
 
 ***
 
-## A formulaic way to start writing your hypothesis: 
+## A formulaic way to start writing your hypothesis: {#formulahyp}
 
 __"If. then. because."__
 
@@ -153,7 +153,7 @@ Although Tinbergen [-@tinbergen1963aims] originally conceived these questions to
 
 ***
 
-## **Exercise 2**: Breaking down a hypothesis
+## **Exercise 2**: Breaking down a hypothesis {#break}
 
 In this exercise, I want you to take the hypotheses that you recorded in [Exercise 1](#spot) and work through the following set of objectives:
 
@@ -181,7 +181,7 @@ You will need to think very carefully about what variables other than those of i
 
 ***
 
-## **Exercise 3**: evaluating a hypothesis
+## **Exercise 3**: evaluating a hypothesis {#evaluate}
 
 How do you decide whether or not a hypothesis is good? To do this, you might think that you need plenty of experience (and yes, that does help). But really, you just need to look for the elements that are discussed above. So once you've written your hypothesis, try to objectively answer the questions below:
 
