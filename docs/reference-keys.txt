@@ -33,6 +33,7 @@ tab:discuss
 fig:formula-FnK2
 tab:aspectsdisc
 fig:formula-FnK2KW
+tab:critical
 Week1
 the-philosophy-of-science
 conducting-a-literature-review
@@ -63,7 +64,7 @@ whathypothesis
 hypfit
 what-a-hypothesis-isnt
 spot
-a-formulaic-way-to-start-writing-your-hypothesis
+formulahyp
 dependent-and-independent-variables
 what-kind-of-mechanism-are-you-using
 endogenous-causal-explanations
@@ -71,9 +72,9 @@ exogenous-causal-explanations
 evolutionary-causal-explanations
 teleological-versus-causal-hypotheses
 tinbergens--tinbergen1963aims-four-questions
-exercise-2-breaking-down-a-hypothesis
+break
 the-problem-of-independence
-exercise-3-evaluating-a-hypothesis
+evaluate
 summing-up-this-hypothesis-workshop
 Week3
 planning-a-thesis-chapter
@@ -124,6 +125,16 @@ subheadings-for-important-points
 discaspects
 writing-the-text-1
 Week6
+criticalreading
+positive-as-well-as-negative-aspects
+how-to-start-reading-critically
+identify
+what-aspects-do-we-make-notes-on
+exercise-2-active-reading
+equality
+reflection
+exercise-3-writing-the-summary
+summing-up-the-workshop-on-critical-reading
 Week7
 Week8
 Week9
