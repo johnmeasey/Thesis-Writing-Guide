@@ -29,10 +29,12 @@ fig:outline-fleshed
 fig:Week4
 tab:psycho
 tab:argument
+fig:week5
 tab:discuss
 fig:formula-FnK2
 tab:aspectsdisc
 fig:formula-FnK2KW
+fig:Week6
 tab:critical
 Week1
 the-philosophy-of-science
@@ -107,6 +109,7 @@ phrasebank
 write3
 summing-up-the-workshop-on-writing-paragraphs
 Week5
+what-we-can-do-to-correct-bad-science
 discuss
 introduction-vs-discussion
 your-discussion-formula
@@ -125,6 +128,7 @@ subheadings-for-important-points
 discaspects
 writing-the-text-1
 Week6
+open-science
 criticalreading
 positive-as-well-as-negative-aspects
 how-to-start-reading-critically
