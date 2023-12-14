@@ -11,15 +11,15 @@ In person classes will be held:
 You can access this course right now at https://johnmeasey.github.io/Thesis-Writing-Guide/
 
 ## Course syllabus
-1.	The philosophy of science – why we need to record what we do; standing on the shoulders of giants; publication
-2.	The hypo-deductive model in science –big questions in your field; reviewing the literature; how to write a hypothesis; citing the literature
-3.	Preregistration – transparency; the movement for Open Science; data curation
-4.	A model for thesis writing – introduction; methods; results; discussion
-5.	Nuts and bolts of writing – sentences; paragraphs; logical arguments; examples; citation databases
-6.	When science goes wrong – publication bias; the evolution of bad science; rewards and retractions
-7.	Publishing your thesis chapters – choosing a journal; preparing your submission; Open Access and reviewing models
-8.	Peer Review – writing a rebuttal; how to conduct peer review; 
-9.	Your future in science – mental health; networks; careers
+1. **[The philosophy of science](#Week1)** – why we need to record what we do; standing on the shoulders of giants; publication
+1. **[The hypo-deductive model in science](#Week2)** – big questions in your field; reviewing the literature; how to write a hypothesis; citing the literature
+1. **[A formula for thesis writing](#Week3)** – introduction; methods; results; discussion
+1. **[Nuts and bolts of writing](#Week4)** – sentences; paragraphs; logical arguments; examples; citation databases
+1. **[When science goes wrong](#Week5)** – publication bias; the evolution of bad science; rewards and retractions
+1. **[Open Science](#Week6)** – transparency; the movement for Open Science; data curation
+1. **[Time management and Mental Health](#Week7)** – choosing a journal; preparing your submission; Open Access and reviewing models
+1. **[Submitting to a journal and Peer Review](#Week8)** – submission framework; writing a rebuttal; how to conduct peer review 
+1. **[Your future in science](#Week9)** – scientific living; in and out of academia; networks; careers
 
 ## Online Course Materials
 Each week you will have an online task that will require you to follow a set of instructions to produce a product that we will discuss in class (or online).
