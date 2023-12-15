@@ -1,0 +1,195 @@
+
+# Conducting Peer Review {#peer-rev}
+
+We know that at the end of your postgraduate studies your thesis will be examined. The examination process is similar to that which happens in peer review. The examiner will read your thesis, and watch you present your results, and critically assess what  you have produced in line with a rubric of requirements that are set down by the university. Ultimately, it will be the head of the faculty that will decide whether or not you have achieved the requirements to obtain your MSc or PhD. However, they will be relying on the reports of the examiners.
+
+Peer review happens in much the same way. A manuscript is submitted to a journal. The manuscript is sent out to reviewers who read it and make comments in-line with the rubric of the journal to which it was submitted. Those reviewers make a recommendation to the editor and the editor decides what will happen to the manuscript. Most likely, they will ask the authors to change their manuscript in-line with the comments of the reviewers.
+
+## [Who are the peers in Peer Review](https://howtopublishscience.org/peerreview.html#whopeers)?
+
+The editor (or handling editor) decides to whom manuscripts are sent. In general, these are specialists on the topic or subject of the manuscript. Editors have networks of people that they know or whose work they are familiar with, and they call upon these people to conduct the reviews of the manuscript because they value their opinion. In general, those people are **professionals**, **scholars** and **specialists**. These people usually sit in similar positions to the authors of the manuscript, hence they are 'peers'.
+
+At the beginning of your postgraduate studies it is unlikely that you will be sent anything to review by an editor. But as time goes by and especially when you present your own work at meetings and conferences, you may well be recognised as an expert in your field and be called upon to conduct a peer review assignment. Perhaps more relevant now is that peer reviewing is similar to an extended, more structured and formal type of [critical reading](#criticalreading), something that we have already learned about. 
+
+***
+
+In this workshop, we are going to learn about how to conduct peer review, and find out how this aspect of [critical reading](#criticalreading) will help us with our postgraduate studies.
+
+Please remember that there is a lot of information about peer review already published in our [course text](https://howtopublishscience.org) and I won't repeat all of that here. Instead I will refer you to it now:
+
+
+ - [what is peer review?](https://howtopublishscience.org/peerreview.html)
+ - [what to expect from peer reviewers](https://howtopublishscience.org/peerreview2.html#peerreview2)
+ - [how to respond to peer review](https://howtopublishscience.org/decision.html#rebuttal)
+ - [problems with peer review](https://howtopublishscience.org/problempeerreview.html#problempeerreview)
+ 
+ The most important chapter to read for today's workshop is:
+ 
+ - [how to conduct peer review](https://howtopublishscience.org/howpeerreview.html#howpeerreview)
+ 
+ Please make sure that you have read this before continuing.
+ 
+ ***
+ 
+## The first read {#firstread}
+
+Ultimately, as a reviewer you will have to review the text in the manuscript that you are provided with, along with any other materials that are sent, such as figures, tables and supplementary information. You should break this reading task into two: 
+
+ - [The first read](#firstread)
+ - [The second read](#secondread)
+ 
+During the first read you will bring into play the tools that you learned during the [critical reading](#criticalreading) workshop. If this is your first time at conducting peer review, then I suggest that you print out the manuscript. Find time and space to read it in two [working blocks](#Week7). You will need to take notes and concentrate on particular aspects of the study. In the case that you are refereeing for a journal, you should consult their instructions to referees that they give you along with the assignment. In this workshop, I am going to provide you with a set of questions that you should answer as your read:
+
+Ask yourself:
+
+
+- Could the study be repeated?
+- Are the methods legitimate in order to produce the results provided
+- Are the results sufficient to respond to the hypothesis posed?
+- Can it be improved?
+- Is the content of the manuscript appropriate to the journal?
+- Does the experimental design contain sufficient controls?
+- Did the authors try and stretch the implications of their results beyond the credibility of the findings?
+
+Before you progress onto the [second read](#secondread), give yourself some time. You should not start your second reading for at least 3 days after the [first reading](#firstread).
+
+
+## The second read {#secondread}
+
+During the second read you need to formulate your peer review report. This means that you must already have a clear idea of the manuscript you are about to read again. 
+
+Start the second read by going through the manuscript [abstract](#abstractwriting) in detail. This should provide your memory with enough information for you to remember the entire study, its strengths and weaknesses. After you have read the abstract, write the [summary of the study](#appraisal) in your own words. You will come back to this summary at the end of your second reading, when you can update it if your understanding changes. 
+
+Once you have finished writing your [summary of the study](#appraisal), you can progress onto the main text. This time, when you read you are looking for both positive and negative aspects in the text. I use a highlighter to code these: yellow for grammatical errors, green for positive aspects, red for errors. I also use the comments function to make notes on exactly what I find wrong with each of these aspects.
+
+### Introduction
+
+Once you have finished reading the introduction, you should have a clear understanding of what the study is about. You should be able to list the **Theme**, **Topic**, **Variables**, **Study system** and **Hypothesis** (see Table \@ref(tab:aspects)). If these are not clear to you, or not introduced sufficiently well for you to understand how they are important for the study, then note this now.
+
+### Materials and Methods
+
+When you read the materials and methods, you need to determine whether the work explained is repeatable. Is there enough information provided in order for you to repeat this work yourself? If any of the information in the Materials and Methods is insufficient, then make a comment on this (be sure to refer to the supplementary information if that is provided). 
+
+Concentrate on the study design. Ask yourself:
+
+ - is the approach used appropriate for the hypothesis posed?
+   + are they really testing the independent variable against the dependent variable with the mechanism posed?
+   + are they missing important co-variates?
+ - are there enough replicates?
+ - is there any sign of [pseudoreplication](https://blogs.bmj.com/openscience/2019/09/16/genuine-replication-and-pseudoreplication-whats-the-difference/)?
+ - is the analysis appropriate to answer the study design?
+ - are all of the methods adequately referenced so that you can replicate the study yourself?
+ 
+### Results
+
+The results section is usually the shortest section. It should contain only results (and no methods or discussion). It also comprises all of the figures and tables.
+
+Start by inspecting the figures and tables. You should be able to understand them completely without having to refer to the text. Otherwise the legends are inadequate - note if this is the case. Check that all axes and table headers are labelled appropriately. 
+
+Now go to the text of the results. Check that the text does not simply repeat the contents of figures and tables. Can you understand the text of the results and exactly how this relates to the hypothesis provided?
+
+
+### Discussion
+
+When reading the discussion you should find that the authors clearly respond to the hypothesis. They should extend the meaning of this result to the wider literature and cite this appropriately. 
+
+They should clearly explain any caveats to their conclusions, approach and methodology. Further, they should state how these could be avoided in future. Also it should be clear how they propose to take this particular study forward in the future. 
+
+The study should have a take-home-message that is clear to you.
+
+
+## Deciding between Major and Minor comments
+
+Your next task is to take all of your notes and decide how to rank them. 
+
+### Minor comments
+
+Hopefully, most of your comments will be minor, and the authors should be able to address them quickly and easily by re-wording a sentence, adding a citation or making an explanation clearer. Quickly decide on which of your comments is minor and put them to one side.
+
+### Major comments
+
+These will be more fundamental comments that impact on the validity of the study. For example:
+
+ - the hypothesis is faulty and can't be answered with the methods provided
+ - the approach and methodology are insufficient (replicates, pseudoreplication, etc.)
+ - the results don't match the methods provided
+ 
+Usually, you will have an idea of major comments as your notes on them will be extensive when you read the manuscript. 
+
+Remember that major comments can also be positive, aspects of the study that you think are particularly good or noteworthy.
+
+## Writing the review {#writereview}
+
+### Summary paragraph
+
+Start your review with the manuscript title, and any number it was given by the journal or preprint site. Next use the summary paragraph that you wrote after the first reading. Read it through again and decide whether you need to add anything. Keep this paragraph short (< 150 words). Remember, this summary is positive being skewed towards what you understood, and what was well communicated. This will let the editor and authors know exactly what came across well in the manuscript and by omission what didn't.
+
+### A paragraph for each major comment
+
+Next write an explanation of any major comments that you have. Be sure to explain what they are (use Line numbers from the text to refer to where you are referring to). Your explanation of the problem should also include a short suggestion to the authors about how they could correct this major comment. Each major comment should consist of one short paragraph. 
+
+In this section, do not provide any subjective statements (like "I think..." or "I feel..." or "It seems to me..."). If you need to voice these feelings, then keep them for a final paragraph where you make it clear that these are impressions given by the manuscript to the reader. 
+
+If you found no major faults, you should use this section to include major comments about aspects of the manuscript that you liked. 
+
+### A list of minor comments
+
+Lastly, write a list of the minor comments that you have found on the manuscript. Start with the manuscript line number and put them in the order that you find them in the manuscript. After citing each error, note in a single sentence how this can be corrected. You should include positive comments about short things that you liked.
+
+### Signing off
+
+Last, read through your entire review and make sure that you are happy with it. It should be a balanced (good and bad) summary of the manuscript. Your review is something that you should be happy to receive yourself. 
+
+I encourage you to sign all of your reviews.
+
+***
+
+## The spirit of peer review {#spirit}
+In your heart, as a peer reviewer, you should be trying your best to improve the manuscript you read as much as you possibly can. This may simply represent an improvement in the way the text is worded. But it may also mean adding extra analyses or even experiments (within the bounds of reason).
+
+As McPeek et al. [-@mcpeek2009golden] put it, the golden rule of reviewing is to do unto others as you would have them do unto you. You could also read Baglini and Parsons [-@baglini2020if], who provide some useful insight into how to remain neutral when making reviewer comments. Again, the emphasis is on being professional.
+
+***
+
+## Exercise 1: Conducting peer review on a preprint article
+
+Using the keywords that you identified in [week 1](#finding), search for a preprint at [bioRxiv](https://www.biorxiv.org/). Type your keywords into the search box and hit go. Note that there is also an [advanced search tool](https://www.biorxiv.org/search).
+
+Among the results that come back pick a manuscript based on the title and abstract that you feel falls into your research area. Download this manuscript and conduct your [first read](#firstread).
+
+***
+
+## Exercise 2: The second read and writing the review
+
+For the article that you chose in Exercise 1, now [read it again](#secondread) and [write your review](#writereview). Remember to focus on all the aspects that are pointed out above and beware of the problems in peer review highlighted in [other chapters](https://howtopublishscience.org/problempeerreview.html#problempeerreview). 
+
+***
+
+## Further help with conducting peer review {#onlinecourse}
+A number of publishers and academic institutes have provided online resources to help train those undertaking peer review. I provide links to some of these here: 
+
+ - [ACS Reviewer Lab](https://www.acsreviewerlab.org/)
+ - [Publons Academy](https://webofscienceacademy.clarivate.com/learn/signin)
+ - [Nature Masterclass](https://masterclasses.nature.com/focus-on-peer-review-online-course/16605550). 
+ 
+
+*** 
+
+## Summing up the workshop on conducting peer review
+
+Peer review is a constructive exercise where your peers attempt to help you with your manuscript. It is important that reviews are kept within the [spirit of peer review](#spirit). You aim to do your best to help the authors as you hope that they will try to help you.
+
+1. If you are conducting peer review for a journal, follow their instructions
+1. Read the manuscript twice
+1. In the first reading use a highlighter to highlight different pros and cons of the manuscript. Then write a brief summary of your understanding.
+1. Wait a few days before the second reading
+1. After the second reading, check your summary paragraph and sort out minor from major comments.
+1. Write a brief paragraph on each major comment (if none negative then write major positive comments)
+1. Now list all of the minor comments with respect to their line numbers
+1. Re-read your review & sign it
+
+***
+
+
+This is the end of this workshop on [conducting peer review](#peer-rev). If you find any problems with this workshop, please be sure to let me know. Email: [jmeasey@ynu.edu.cn](jmeasey@ynu.edu.cn)
+
