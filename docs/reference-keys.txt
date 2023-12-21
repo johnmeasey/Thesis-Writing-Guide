@@ -39,6 +39,7 @@ tab:critical
 fig:Week7
 tab:abstract
 fig:abstract-styles
+fig:Week8
 Week1
 the-philosophy-of-science
 conducting-a-literature-review
@@ -152,8 +153,10 @@ abstracts-key-words
 exercise-2-which-key-words-are-already-in-the-abstract
 abstract-names-and-formats
 exercise-3-making-your-abstract-concise
+spin
 summing-up-the-workshop-on-writing-your-abstract
 Week8
+problems-with-peer-review
 peer-rev
 who-are-the-peers-in-peer-review
 firstread
@@ -171,8 +174,9 @@ a-paragraph-for-each-major-comment
 a-list-of-minor-comments
 signing-off
 spirit
-exercise-1-conducting-peer-review-on-a-preprint-article
-exercise-2-the-second-read-and-writing-the-review
+course-test-1
+course-test-2
 onlinecourse
 summing-up-the-workshop-on-conducting-peer-review
 Week9
+end-of-course-test
