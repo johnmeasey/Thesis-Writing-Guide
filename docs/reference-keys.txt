@@ -1,3 +1,4 @@
+fig:week1
 fig:keywords-paper
 fig:keywords-database
 fig:keywords-spreadsheet
@@ -40,6 +41,7 @@ fig:Week7
 tab:abstract
 fig:abstract-styles
 fig:Week8
+fig:week9
 Week1
 the-philosophy-of-science
 conducting-a-literature-review
@@ -179,4 +181,5 @@ course-test-2
 onlinecourse
 summing-up-the-workshop-on-conducting-peer-review
 Week9
+writing-and-publishing-in-science
 end-of-course-test
