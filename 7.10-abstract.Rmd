@@ -69,10 +69,12 @@ In this exercise we are going back to the keywords that you first identified at 
 | **implications for the theme or topic** |  |
 | **take-home-message** |  |
 
-Without downloading or reading any of the article, use the abstract as published on the literature database and attempt to fill in the entire table for each paper.
+Without downloading or reading any of the article, use the abstract as published on the literature database and attempt to fill in the entire table for each paper. Try to use your own words, and do not copy-paste anything from the abstract into the table.
 
 Q1. Can you complete the table for every paper? If not which aspects were missing, and were they the same for every paper?
+
 Q2. Was the information in abstract ordered in the same way as the table? If not, how did this order change?
+
 Q3. Did any of the aspects share a sentence with any other aspect? If so, how were these combined?
 
 ***
@@ -123,15 +125,31 @@ For example, you don't need two sentences about the hypothesis. You can both pos
 **Hint:** Start by using all the aspects in bullet points. Then combine and condense. Then decide upon the final order and reconstruct your abstract. You can use a word counter to make sure that you don't go over the limit.
 
 
+## Avoiding 'spin' {#spin}
+
+Authors may try to represent their manuscript in a more positive light by intentionally or unintentionally overinterpreting, or even misinterpreting, their results. This often happens in the abstract as a way to pull readers in. The biomedical literature is especially full of spin [@chiu2017spin], and this impacts on the accuracy of research dissemination.
+
+Ghannad et al. [-@ghannad2021randomized] conducted a randomised control trial to determine whether spin could be reduced in abstracts. Authors in the intervention group received instructions along with peer review comments telling authors to 
+
+ - (i) focus on the primary aim and primary outcome of your study
+ - (ii) include only information supported by the evidence and in accordance with your results
+ - (iii) avoid interpretation that is inconsistent with the study results
+ - (iv) avoid recommendations not justified by the findings
+ 
+Despite receiving these quite specific instructions that should have been enough for authors to recognise and remove spin from their articles, Ghannad et al. [-@ghannad2021randomized] found that abstracts from the intervention group had the same amount of spin as those abstracts where authors received no specific instructions. Happily, there is evidence that the peer review process in general does reduce spin content [@mayo-wilson2021peer].
+
+We should avoid spin, and the set of instructions above are a good way in which to make sure that you do not overinterpret your findings - either unintentionally or intentionally.
+
+
 *** 
  
 ## Summing up the workshop on writing your abstract
 
-Writing isn't easy, but you can help yourself by using a plan. 
+ - Writing isn't easy, but you can help yourself by using a plan. 
 
-Use a check-list to make sure that all of the aspects needed in your abstract are present. 
+ - Use a check-list to make sure that all of the aspects needed in your abstract are present. 
 
-Remember the tips on how to [write concisely](https://howtowriteaphd.org/concise.html) in order condense the text to the word count needed.
+ - Remember the tips on how to [write concisely](https://howtowriteaphd.org/concise.html) in order condense the text to the word count needed.
 
 
 

@@ -5,9 +5,9 @@ We know that at the end of your postgraduate studies your thesis will be examine
 
 Peer review happens in much the same way. A manuscript is submitted to a journal. The manuscript is sent out to reviewers who read it and make comments in-line with the rubric of the journal to which it was submitted. Those reviewers make a recommendation to the editor and the editor decides what will happen to the manuscript. Most likely, they will ask the authors to change their manuscript in-line with the comments of the reviewers.
 
-## [Who are the peers in Peer Review](https://howtopublishscience.org/peerreview.html#whopeers)?
+## Who are the peers in Peer Review?
 
-The editor (or handling editor) decides to whom manuscripts are sent. In general, these are specialists on the topic or subject of the manuscript. Editors have networks of people that they know or whose work they are familiar with, and they call upon these people to conduct the reviews of the manuscript because they value their opinion. In general, those people are **professionals**, **scholars** and **specialists**. These people usually sit in similar positions to the authors of the manuscript, hence they are 'peers'.
+The editor (or handling editor) decides to whom manuscripts are sent. In general, these are specialists on the topic or subject of the manuscript. Editors have networks of people that they know or whose work they are familiar with, and they call upon these people to conduct the reviews of the manuscript because they value their opinion. In general, those people are **professionals**, **scholars** and **specialists**. These people usually sit in similar positions to the authors of the manuscript, hence they are 'peers' (see Chapter on [who are the peers in peer review]((https://howtopublishscience.org/peerreview.html#whopeers)).
 
 At the beginning of your postgraduate studies it is unlikely that you will be sent anything to review by an editor. But as time goes by and especially when you present your own work at meetings and conferences, you may well be recognised as an expert in your field and be called upon to conduct a peer review assignment. Perhaps more relevant now is that peer reviewing is similar to an extended, more structured and formal type of [critical reading](#criticalreading), something that we have already learned about. 
 
@@ -42,7 +42,6 @@ During the first read you will bring into play the tools that you learned during
 
 Ask yourself:
 
-
 - Could the study be repeated?
 - Are the methods legitimate in order to produce the results provided
 - Are the results sufficient to respond to the hypothesis posed?
@@ -61,6 +60,12 @@ During the second read you need to formulate your peer review report. This means
 Start the second read by going through the manuscript [abstract](#abstractwriting) in detail. This should provide your memory with enough information for you to remember the entire study, its strengths and weaknesses. After you have read the abstract, write the [summary of the study](#appraisal) in your own words. You will come back to this summary at the end of your second reading, when you can update it if your understanding changes. 
 
 Once you have finished writing your [summary of the study](#appraisal), you can progress onto the main text. This time, when you read you are looking for both positive and negative aspects in the text. I use a highlighter to code these: yellow for grammatical errors, green for positive aspects, red for errors. I also use the comments function to make notes on exactly what I find wrong with each of these aspects.
+
+**Be kind, and remember the golden rule of reviewing:**
+
+> "The golden rule of reviewing is to do unto others as you would have them do unto you."
+>
+>McPeek et al. [-@mcpeek2009golden]
 
 ### Introduction
 
@@ -151,7 +156,7 @@ As McPeek et al. [-@mcpeek2009golden] put it, the golden rule of reviewing is to
 
 ***
 
-## Exercise 1: Conducting peer review on a preprint article
+## Exercise 1: Conducting peer review on a preprint article {#course-test-1}
 
 Using the keywords that you identified in [week 1](#finding), search for a preprint at [bioRxiv](https://www.biorxiv.org/). Type your keywords into the search box and hit go. Note that there is also an [advanced search tool](https://www.biorxiv.org/search).
 
@@ -159,13 +164,16 @@ Among the results that come back pick a manuscript based on the title and abstra
 
 ***
 
-## Exercise 2: The second read and writing the review
+## Exercise 2: The second read and writing the review {#course-test-2}
 
 For the article that you chose in Exercise 1, now [read it again](#secondread) and [write your review](#writereview). Remember to focus on all the aspects that are pointed out above and beware of the problems in peer review highlighted in [other chapters](https://howtopublishscience.org/problempeerreview.html#problempeerreview). 
 
 ***
 
 ## Further help with conducting peer review {#onlinecourse}
+There are some great articles written in journals about how to conduct peer review - especially useful if these are journals you are conducting peer review for: 
+[@agathokleous2021engaging; ]
+
 A number of publishers and academic institutes have provided online resources to help train those undertaking peer review. I provide links to some of these here: 
 
  - [ACS Reviewer Lab](https://www.acsreviewerlab.org/)
@@ -186,7 +194,7 @@ Peer review is a constructive exercise where your peers attempt to help you with
 1. After the second reading, check your summary paragraph and sort out minor from major comments.
 1. Write a brief paragraph on each major comment (if none negative then write major positive comments)
 1. Now list all of the minor comments with respect to their line numbers
-1. Re-read your review & sign it
+1. Re-read your review and sign it
 
 ***
 

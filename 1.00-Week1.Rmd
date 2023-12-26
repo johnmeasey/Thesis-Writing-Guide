@@ -6,7 +6,21 @@
 
 Contents of Week 1
 
+
+(ref:week1) Please find here the video for the lecture at Week 1. View [on Bilibili](https://www.bilibili.com/video/BV1yp4y1d7dT/).
+
+***
+
+```{r week1, echo=FALSE, fig.cap="(ref:week1)"}
+if(knitr::is_html_output(excludes="markdown")) knitr::include_url("https://www.bilibili.com/video/BV1yp4y1d7dT/")
+```
+
+***
+
+
 ## The philosophy of science
+
+
 
 
 ```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.ynu.edu.cn/'}

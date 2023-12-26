@@ -110,6 +110,13 @@ You can read this book for free online at https://howtopublishscience.org/, or p
 
 View open-source code for source text and templates at https://github.com/johnmeasey/Thesis-Writing-Guide
 
+
+## You can contribute {.unnumbered}
+
+This book is written in bookdown [@xie2016bookdown] specifically to make it a ‘live project’ that will be open to anyone who wants to contribute, improve, or use as the basis for your own book. The easiest way for readers to contribute content directly is through a [GitHub pull request](https://help.github.com/articles/about-pull-requests/). At [the repository for this book](https://github.com/johnmeasey/Thesis-Writing-Guide/), you will find Rmd files for each chapter, and as a GitHub user, you can simply edit the Rmd file and submit the changes. If I am happy with the changes proposed, I will merge your content with that of the book and add your name to the [Acknowledgements](#Acknowledgments).
+
+One of the amazing potentials for bookdown books is that because all the files for this book are hosted in [a repository on Github](https://github.com/johnmeasey/Thesis-Writing-Guide/), you have the opportunity to fork this repository and write your own version for a different discipline, a different language or for a different region of the world. It is also my hope that this guide can grow to become a community of practice for those conducting MScs or PhDs in Biological Sciences. It will not be possible to cover every aspect of writing an MSc or PhD in Biological Sciences, but it may be that I have missed out ones that are very important to you. Equally, parts of what is currently written will become obsolete as new initiatives begin, and old problems are resolved. For this reason, this guide needs to be a ‘living document’, and anyone who wants to provide feedback or contribute new sections is more than welcome. Please feel free to open an issue, or make a Pull Request if you spot a typo, or see anything else that you want changed or added. If you aren't up to that, then you can simply contact me by [email](jmeasey@ynu.edu.cn).
+
 ## Copyright {.unnumbered}
 
 This work is licensed under a
@@ -125,7 +132,7 @@ This work is licensed under a
 
 ## Acknowledgments {.unnumbered}
 
-There are a great many people that I need to thank. First and foremost are the members of my lab, past and present, who have inspired me to put together first the blog posts and then the book. It is because you wanted more that I put this together. This book contains lots of links to blogs and articles written and posted freely on the internet by others who also aim to demystify and help. I thank this greater academic community (especially \#academicTwitter) for sharing and inspiring. Thanks go to the many reviewers and editors who have taken their time to improve my writing. I am still learning. Lots of the text in this book has been improved by feedback from my students and postdocs. A special mention must go to my brother, Richard, who has hosted my lab website for more than a decade, and especially for saving blog posts from hacking attacks. Thanks also to my wife, Thalassa, who proofread many of the blog posts after I had published them late at night, so that I could correct them over breakfast in the morning. James Baxter-Gilbert, Dan Bolnick, Jack Dougherty, Anthony Herrel, Allan Ellis, Rachael Lammey (CrossRef), Andrea Melotto, Lisa and Mark O'Connell, Ivan Oransky (Retraction Watch), Heather Piwowar (ImpactStory), Claire Riss (Center for Open Science), Johan Rooryck (cOAltition S), James Vonesh, Carla Wagener all read or commented on different aspects of the book. Thanks are also due to my colleagues at the Centre for Invasion Biology, the Department of Botany and Zoology, and Stellenbosch University. A special thanks to the librarians who have supported many of my more extreme rantings about publishers.
+There are a great many people that I need to thank. First and foremost are the members of my lab, past and present, who have inspired me to put together first the blog posts and then the book. It is because you wanted more that I put this together. This book contains lots of links to blogs and articles written and posted freely on the internet by others who also aim to demystify and help. I thank this greater academic community (especially \#academicTwitter) for sharing and inspiring. 
 
 ## Disclaimer {.unnumbered}
 
