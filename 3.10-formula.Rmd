@@ -46,7 +46,7 @@ The hypothesis is then at the heart of everything that you write in your chapter
 (ref:formula-concept) **Your hypothesis lies at the heart of your MSc or PhD chapter.** Your hypothesis (red star) is at the heart of everything that you are writing about. The entire reason for providing the chapter is to test your idea. 
 
 ```{r formula-concept, echo=FALSE, out.width = '95%', fig.cap="(ref:formula-concept)"}
- knitr::include_graphics("figures/formula-concept.png")
+ knitr::include_graphics("figures/formula-concept.gif")
 ```
 
 
