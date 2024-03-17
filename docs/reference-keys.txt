@@ -185,12 +185,13 @@ summing-up-the-workshop-on-conducting-peer-review
 CV
 understanding-the-use-of-cvs-from-the-employers-standpoint
 the-chain-of-events-that-lead-up-to-the-job-advertisement
-you-will-need-a-new-cv-for-every-job
+newCV
 think-of-your-cv-as-a-checklist
 getting-onto-the-short-list
 from-the-short-list-to-the-interview
 tableidealjob
 cvtemplate
+writing-your-personal-statement
 exercise-2-constructing-your-cv
 what-to-omit-from-your-cv
 if-your-cv-is-getting-too-long
