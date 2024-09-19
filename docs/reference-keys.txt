@@ -22,8 +22,8 @@ fig:Week3
 fig:formula-nw
 fig:formula-concept
 fig:formula-FnK1
-tab:intro
 tab:aspects
+tab:intro
 fig:formula-FnK1KW
 fig:outline
 fig:outline-fleshed
@@ -46,7 +46,7 @@ fig:CV-template
 fig:week9
 Week1
 the-philosophy-of-science
-conducting-a-literature-review
+litrev
 keywords
 becoming-familiar-with-the-literature-in-your-topic
 topic1
