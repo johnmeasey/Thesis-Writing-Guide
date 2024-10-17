@@ -199,4 +199,9 @@ building-your-cv
 summing-up-this-curriculum-vitae-workshop
 Week9
 writing-and-publishing-in-science
-end-of-course-test
+end-of-course-assignment
+course-assignment
+dont
+do
+you-will-fail-the-course-if
+marks-deducted-for
